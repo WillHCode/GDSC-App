@@ -1,0 +1,6 @@
+[submodule "GDSC-Web"]
+	path = GDSC-Web
+	url = https://github.com/WillHCode/GDSC-Web.git
+[submodule "GDSC-Domain"]
+	path = GDSC-Domain
+	url = https://github.com/WillHCode/GDSC-Domain.git
